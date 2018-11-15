@@ -1,0 +1,1 @@
+gcc p351.c encrypt.o checksum.o -o p351.exe
